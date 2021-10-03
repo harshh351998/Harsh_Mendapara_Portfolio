@@ -35,6 +35,14 @@ body {
   margin:auto;
 }
 
+/** headings **/
+.h5 {
+  text-align: justify;
+}
+/** Text content **/
+.text-content {
+  text-align: left;
+}
 /** links **/
 .link {
   box-sizing: border-box;
@@ -158,9 +166,6 @@ body {
 .footer .link {
   color: var(--footer-link-color);
 }
-
-
-
 .footer ul {
   padding-inline-start: 0px;
 }
